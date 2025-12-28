@@ -6,10 +6,9 @@ Name: Anelia Tomova
 # Specification
 In this project, I have built a basic vending machine program using C++. The program shows a menu of items, lets the user pick a product by entering a number, accepts money, and gives back the correct change. My vending machine includes six items, which are grouped into simple categories like drinks and snacks. It also checks for valid input, keeps track of stock, and lets the user buy more than one item if they want to. The whole program was made using core C++ skills such as structs, vectors, loops, and functions.
 
-# System Flow
+# System Flowchart
 <img width="322" height="479" alt="final flowchart" src="https://github.com/user-attachments/assets/1bd8165a-d312-46c5-bad4-999163344de6" />
-
-A flowchart that I have included in my Word document shows how the vending machine program works: ask the user to insert money - check whether the amount entered is valid - menu is being displayed - checks if the item is in stock and if the user has enough money for it - dispensing and updating the remaining balance - user can continue buying more items or choose to finish - program returns change - end
+The flowchart shows the full process of how the vending machine program operates. It begins with the user inserting money, followed by the system displaying all available items. The diagram illustrates the key decision points, including validating input, checking whether the selected item exists, confirming it is in stock, and ensuring the user has enough money. It then shows how the program dispenses the item, updates the remaining balance, and offers the user the option to make another purchase. Finally, it ends by returning any leftover change and completing the transaction.
 
 # Technical Implementation
  * Data Structure - an item struct is used to store product details such as name, category, price and stock
