@@ -25,9 +25,16 @@ Developing this vending machine program has been a really useful experience beca
 Even though the program works well, there are definitely things I would like to improve. For example, everything is currently hard-coded into the program, so adding new items means editing the code manually. In the future, I’d like to add file handling so the machine could load items from a text file and automatically update stock levels. The user interface could also be improved to make it look cleaner or more visually appealing. Adding features like an admin panel or even product suggestions could also make the program more interesting.
 To achieve these improvements, I need to develop a few more skills. I want to learn more about object-oriented programming so I can convert the program from using a struct into a class-based design. I also want to explore file input/output and practise building more modular code structures. These skills would help me turn this simple vending machine into a more advanced and flexible application.
 
+# Appendix
+<img width="380" height="350" alt="image" src="https://github.com/user-attachments/assets/7ab36fc3-5bdd-4305-abae-0d5f4cbecbbf" />
+<img width="380" height="331" alt="image" src="https://github.com/user-attachments/assets/2e06604a-0efb-42bc-b247-af2631f33c8b" />
+<img width="399" height="334" alt="image" src="https://github.com/user-attachments/assets/4e0164c4-9b6d-4ca0-aa96-f2e1c342c75b" />
+<img width="409" height="105" alt="image" src="https://github.com/user-attachments/assets/25399433-5ee1-4c1a-b1d5-46d0fd1e94bc" />
+
 # Deliverables 
-* Vending Machine C++ code can be found in GitHub repository
-* Development Document (this file and World document)
-* Walkthrough video (can be found in my World document)
-* System flowchart (can be found in my World document)
+* Vending Machine C++ code (can be found here in my GitHub repository)
+* Development Document (this file)
+* Walkthrough video (can be found here in the 'Technical Implementation' section)
+* System flowchart (can be found here in the 'System Flowchart' section)
+* Appendix (screenshots of my code)
    
