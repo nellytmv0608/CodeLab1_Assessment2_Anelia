@@ -8,6 +8,7 @@ In this project, I have built a basic vending machine program using C++. The pro
 
 # System Flowchart
 <img width="322" height="479" alt="final flowchart" src="https://github.com/user-attachments/assets/1bd8165a-d312-46c5-bad4-999163344de6" />
+
 The flowchart shows the full process of how the vending machine program operates. It begins with the user inserting money, followed by the system displaying all available items. The diagram illustrates the key decision points, including validating input, checking whether the selected item exists, confirming it is in stock, and ensuring the user has enough money. It then shows how the program dispenses the item, updates the remaining balance, and offers the user the option to make another purchase. Finally, it ends by returning any leftover change and completing the transaction.
 
 # Technical Implementation
