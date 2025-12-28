@@ -11,8 +11,6 @@ In this project, I have built a basic vending machine program using C++. The pro
 
 The flowchart shows the full process of how the vending machine program operates. It begins with the user inserting money, followed by the system displaying all available items. The diagram illustrates the key decision points, including validating input, checking whether the selected item exists, confirming it is in stock, and ensuring the user has enough money. It then shows how the program dispenses the item, updates the remaining balance, and offers the user the option to make another purchase. Finally, it ends by returning any leftover change and completing the transaction.
 
-https://github.com/nellytmv0608/CodeLab1_Assessment2_Anelia/edit/main/README.md
-
 # Technical Implementation
  * Data Structure - an item struct is used to store product details such as name, category, price and stock
  * Functions - used to keep the code in order: displayMenu(), getIntInput(), getItemIndex()
