@@ -1,6 +1,10 @@
 Development Documentation
 
-Name: Anelia Tomova
+Name: Anelia Tomova | BSU ID No: 583849 | Submission date:
+Programme:          | Module name and code:    
+Title:
+Assessor name: 
+
 # CodeLab1_Assessment2: Vending Machine_Utility App
 
 # Specification
