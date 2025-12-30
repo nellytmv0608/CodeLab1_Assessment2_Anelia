@@ -1,8 +1,8 @@
 Development Documentation
 
 Name: Anelia Tomova | BSU ID No: 583849 | Submission date:
-Programme: BSc Computing  | Module name and code: CodeLab1 - CCO4000
-Title: Assessment 2:Utility App
+Programme: BSc Computing  | Module name and code: CodeLab1 - CCO4000 |
+Title: Assessment 2:Utility App |
 Assessor name: Meenakshi Megavarnam
 
 # CodeLab1_Assessment2: Vending Machine_Utility App
